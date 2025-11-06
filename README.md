@@ -1,4 +1,6 @@
+**ICT-381 MAJOR ASSIGNMENT SUBMISSION**
 ### Project Scope Summary — Group 16
+
 
 This project was carried out in two main phases over two weeks, focusing on the design and documentation of the assigned system.
 
@@ -13,3 +15,17 @@ In the second week, Group 16 analyzed the user stories to identify the system’
 A comprehensive Use Case Diagram was developed to visualize system interactions, accompanied by 3–6 fully documented use case specifications. For critical scenarios, 2–3 UML Sequence Diagrams were created to demonstrate message passing, lifelines, activation bars, and conditional flows (alt/opt fragments) aligned with the MVC architecture.
 
 The week concluded with a PowerPoint demonstration summarizing the team’s use case analysis and sequence diagram designs, effectively showcasing the progress and deliverables of Group 16.
+
+**GROUP** **MEMBERS;**
+Siyabonga Phiri    202302370 
+Blessings Nkhata   202201327
+Pilira Banda       202301821
+Adrian Ngulube     202306966 
+Imanga Songiso     202303981
+Sandra Katembula   202305832 
+Isreal Bopili      202302240 
+Kompeli Sibeso     202308158 
+Eneless Mwanza     202306493
+
+
+**In This REPO, All The Required Documents Are Attached Below**
