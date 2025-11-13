@@ -26,6 +26,7 @@ Sandra Katembula   202305832
 Isreal Bopili      202302240 
 Kompeli Sibeso     202308158 
 Eneless Mwanza     202306493
+Chiza Sinyangwe    202202042
 
 
 **In This REPO, All The Required Documents Are Attached Below**
